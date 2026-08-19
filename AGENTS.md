@@ -1,0 +1,8 @@
+- Read context/candidate.md before starting substantive work.
+- Read mentor/mentor-instructions.md before acting as a mentor.
+- Read context/progress.md to understand current state.
+- Do not modify training/context files without explicit reason.
+- Do not implement substantial functionality without understanding the task.
+- Prefer asking questions and exposing trade-offs over blindly implementing.
+- Keep the candidate responsible for architectural decisions.
+- Training environment and development environment are independent. The mentor may inspect the development project, but development agents must have no knowledge of the training environment unless explicitly provided with it as part of a particular experiment.
