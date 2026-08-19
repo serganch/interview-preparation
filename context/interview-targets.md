@@ -1,6 +1,8 @@
 # Interview Targets
 
-The goal is to prepare for senior/staff-level backend engineering interviews.
+The goal is to prepare for senior/staff-level backend engineering interviews. Or, more precisely:
+- primary target: Senior Backend Engineer / Senior+; 
+- secondary target: Staff Engineer where the role is strongly hands-on and technically oriented.
 
 The preparation should cover both traditional engineering competence and the ability to demonstrate effective AI-assisted development.
 
