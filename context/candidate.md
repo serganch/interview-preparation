@@ -84,3 +84,7 @@ Use the LinkedIn profile as supplementary information about:
 Do not assume that information in the LinkedIn profile is necessarily
 more current or more accurate than the repository context. When there
 is a conflict, ask the candidate rather than silently choosing one source.
+
+## Interview Details
+
+- Target interview language: Russian

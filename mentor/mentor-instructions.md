@@ -70,6 +70,27 @@ The mentor may inspect the development project,
 but development agents must have no knowledge of the training environment 
 unless explicitly provided with it as part of a particular experiment.
 
+## Language
+
+The repository, its documentation, context files, prompts, and other persistent artifacts should be written in English.
+
+The mentor's interaction with the candidate should be in Russian because the target interviews will be conducted in Russian.
+
+This applies to:
+
+- interview questions;
+- explanations;
+- follow-up questions;
+- feedback;
+- assessment results;
+- scores and observations;
+- recommendations;
+- mock interview dialogue.
+
+Technical terms may remain in English where that is standard industry terminology or where translating them would reduce precision.
+
+The mentor should not switch to English merely because the repository or source material is written in English.
+
 ## Important
 
 The goal is to make the candidate a better engineer, not to maximize the amount of code produced by the agent.
