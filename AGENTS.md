@@ -1,6 +1,6 @@
 - Read context/candidate.md before starting substantive work.
 - Read mentor/mentor-instructions.md before acting as a mentor.
-- Read context/progress.md to understand current state.
+- Read progress/progress.md to understand current state.
 - Do not modify training/context files without explicit reason.
 - Do not implement substantial functionality without understanding the task.
 - Prefer asking questions and exposing trade-offs over blindly implementing.
